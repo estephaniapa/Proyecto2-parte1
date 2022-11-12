@@ -1,0 +1,289 @@
+State ID,State,Year,Expenses Type ID,Expenses Type,Amount Approved
+1,Aguascalientes,2013,8,Gasto de Obra Pública,1511908040
+1,Aguascalientes,2014,8,Gasto de Obra Pública,1865135779
+1,Aguascalientes,2015,8,Gasto de Obra Pública,1659723400
+1,Aguascalientes,2016,8,Gasto de Obra Pública,1717532284
+1,Aguascalientes,2017,8,Gasto de Obra Pública,1230564370
+1,Aguascalientes,2018,8,Gasto de Obra Pública,763497156
+1,Aguascalientes,2019,8,Gasto de Obra Pública,698139978
+1,Aguascalientes,2020,8,Gasto de Obra Pública,801262825
+1,Aguascalientes,2021,8,Gasto de Obra Pública,619602783
+2,Baja California,2013,8,Gasto de Obra Pública,2558020712
+2,Baja California,2014,8,Gasto de Obra Pública,4709676663
+2,Baja California,2015,8,Gasto de Obra Pública,2494693399
+2,Baja California,2016,8,Gasto de Obra Pública,2685756585
+2,Baja California,2017,8,Gasto de Obra Pública,1570031154
+2,Baja California,2018,8,Gasto de Obra Pública,9730725095
+2,Baja California,2019,8,Gasto de Obra Pública,6664542845
+2,Baja California,2020,8,Gasto de Obra Pública,1443654047
+2,Baja California,2021,8,Gasto de Obra Pública,2622630589
+3,Baja California Sur,2013,8,Gasto de Obra Pública,2239023615
+3,Baja California Sur,2014,8,Gasto de Obra Pública,1941923516
+3,Baja California Sur,2015,8,Gasto de Obra Pública,2032543717
+3,Baja California Sur,2016,8,Gasto de Obra Pública,2855727063
+3,Baja California Sur,2017,8,Gasto de Obra Pública,1201590701
+3,Baja California Sur,2018,8,Gasto de Obra Pública,2032211730
+3,Baja California Sur,2019,8,Gasto de Obra Pública,1474567507
+3,Baja California Sur,2020,8,Gasto de Obra Pública,1102611193
+3,Baja California Sur,2021,8,Gasto de Obra Pública,937524627
+4,Campeche,2013,8,Gasto de Obra Pública,99082029192
+4,Campeche,2014,8,Gasto de Obra Pública,110330787664
+4,Campeche,2015,8,Gasto de Obra Pública,179996903236
+4,Campeche,2016,8,Gasto de Obra Pública,130369164237
+4,Campeche,2017,8,Gasto de Obra Pública,105920604960
+4,Campeche,2018,8,Gasto de Obra Pública,92634515442
+4,Campeche,2019,8,Gasto de Obra Pública,89364091716
+4,Campeche,2020,8,Gasto de Obra Pública,167022332994
+4,Campeche,2021,8,Gasto de Obra Pública,170554682448
+5,Coahuila de Zaragoza,2013,8,Gasto de Obra Pública,2402936855
+5,Coahuila de Zaragoza,2014,8,Gasto de Obra Pública,2950138752
+5,Coahuila de Zaragoza,2015,8,Gasto de Obra Pública,3973057572
+5,Coahuila de Zaragoza,2016,8,Gasto de Obra Pública,3560035868
+5,Coahuila de Zaragoza,2017,8,Gasto de Obra Pública,1764773023
+5,Coahuila de Zaragoza,2018,8,Gasto de Obra Pública,2094854701
+5,Coahuila de Zaragoza,2019,8,Gasto de Obra Pública,11314959253
+5,Coahuila de Zaragoza,2020,8,Gasto de Obra Pública,5078344488
+5,Coahuila de Zaragoza,2021,8,Gasto de Obra Pública,1812974402
+6,Colima,2013,8,Gasto de Obra Pública,2955366382
+6,Colima,2014,8,Gasto de Obra Pública,2860224449
+6,Colima,2015,8,Gasto de Obra Pública,1944919437
+6,Colima,2016,8,Gasto de Obra Pública,981280851
+6,Colima,2017,8,Gasto de Obra Pública,740663349
+6,Colima,2018,8,Gasto de Obra Pública,898703113
+6,Colima,2019,8,Gasto de Obra Pública,880445659
+6,Colima,2020,8,Gasto de Obra Pública,628087453
+6,Colima,2021,8,Gasto de Obra Pública,778436351
+7,Chiapas,2013,8,Gasto de Obra Pública,18648463351
+7,Chiapas,2014,8,Gasto de Obra Pública,19722914503
+7,Chiapas,2015,8,Gasto de Obra Pública,21161352210
+7,Chiapas,2016,8,Gasto de Obra Pública,20375385079
+7,Chiapas,2017,8,Gasto de Obra Pública,18862545588
+7,Chiapas,2018,8,Gasto de Obra Pública,16857348106
+7,Chiapas,2019,8,Gasto de Obra Pública,16724549508
+7,Chiapas,2020,8,Gasto de Obra Pública,19883055289
+7,Chiapas,2021,8,Gasto de Obra Pública,24557014449
+8,Chihuahua,2013,8,Gasto de Obra Pública,4135868390
+8,Chihuahua,2014,8,Gasto de Obra Pública,3522384746
+8,Chihuahua,2015,8,Gasto de Obra Pública,5057660429
+8,Chihuahua,2016,8,Gasto de Obra Pública,4396486205
+8,Chihuahua,2017,8,Gasto de Obra Pública,2721150620
+8,Chihuahua,2018,8,Gasto de Obra Pública,2987529745
+8,Chihuahua,2019,8,Gasto de Obra Pública,2859344186
+8,Chihuahua,2020,8,Gasto de Obra Pública,2479778252
+8,Chihuahua,2021,8,Gasto de Obra Pública,2678139066
+9,Ciudad de México,2013,8,Gasto de Obra Pública,64223856150
+9,Ciudad de México,2014,8,Gasto de Obra Pública,86507293811
+9,Ciudad de México,2015,8,Gasto de Obra Pública,72355571523
+9,Ciudad de México,2016,8,Gasto de Obra Pública,63282614015
+9,Ciudad de México,2017,8,Gasto de Obra Pública,42290225860
+9,Ciudad de México,2018,8,Gasto de Obra Pública,37346399033
+9,Ciudad de México,2019,8,Gasto de Obra Pública,75528167216
+9,Ciudad de México,2020,8,Gasto de Obra Pública,33643021494
+9,Ciudad de México,2021,8,Gasto de Obra Pública,32943680506
+10,Durango,2013,8,Gasto de Obra Pública,3294028743
+10,Durango,2014,8,Gasto de Obra Pública,4698276429
+10,Durango,2015,8,Gasto de Obra Pública,4518541956
+10,Durango,2016,8,Gasto de Obra Pública,3666945990
+10,Durango,2017,8,Gasto de Obra Pública,3629190928
+10,Durango,2018,8,Gasto de Obra Pública,2524266459
+10,Durango,2019,8,Gasto de Obra Pública,2744707097
+10,Durango,2020,8,Gasto de Obra Pública,2576443203
+10,Durango,2021,8,Gasto de Obra Pública,3919983944
+11,Guanajuato,2013,8,Gasto de Obra Pública,9063839435
+11,Guanajuato,2014,8,Gasto de Obra Pública,7907037050
+11,Guanajuato,2015,8,Gasto de Obra Pública,9126159039
+11,Guanajuato,2016,8,Gasto de Obra Pública,11947400313
+11,Guanajuato,2017,8,Gasto de Obra Pública,11212695496
+11,Guanajuato,2018,8,Gasto de Obra Pública,7011080391
+11,Guanajuato,2019,8,Gasto de Obra Pública,5759973308
+11,Guanajuato,2020,8,Gasto de Obra Pública,5731234228
+11,Guanajuato,2021,8,Gasto de Obra Pública,5335189711
+12,Guerrero,2013,8,Gasto de Obra Pública,8006469469
+12,Guerrero,2014,8,Gasto de Obra Pública,16537555901
+12,Guerrero,2015,8,Gasto de Obra Pública,8345096788
+12,Guerrero,2016,8,Gasto de Obra Pública,9573938393
+12,Guerrero,2017,8,Gasto de Obra Pública,8756381671
+12,Guerrero,2018,8,Gasto de Obra Pública,9204200294
+12,Guerrero,2019,8,Gasto de Obra Pública,9756306905
+12,Guerrero,2020,8,Gasto de Obra Pública,9200463679
+12,Guerrero,2021,8,Gasto de Obra Pública,8524323867
+13,Hidalgo,2013,8,Gasto de Obra Pública,8006126434
+13,Hidalgo,2014,8,Gasto de Obra Pública,5275053952
+13,Hidalgo,2015,8,Gasto de Obra Pública,7035329925
+13,Hidalgo,2016,8,Gasto de Obra Pública,25184998439
+13,Hidalgo,2017,8,Gasto de Obra Pública,6524516786
+13,Hidalgo,2018,8,Gasto de Obra Pública,8235775855
+13,Hidalgo,2019,8,Gasto de Obra Pública,5511847329
+13,Hidalgo,2020,8,Gasto de Obra Pública,4865675417
+13,Hidalgo,2021,8,Gasto de Obra Pública,4605068282
+14,Jalisco,2013,8,Gasto de Obra Pública,6414892427
+14,Jalisco,2014,8,Gasto de Obra Pública,8187917981
+14,Jalisco,2015,8,Gasto de Obra Pública,13445255830
+14,Jalisco,2016,8,Gasto de Obra Pública,10741648093
+14,Jalisco,2017,8,Gasto de Obra Pública,10360745592
+14,Jalisco,2018,8,Gasto de Obra Pública,9643357054
+14,Jalisco,2019,8,Gasto de Obra Pública,5607985934
+14,Jalisco,2020,8,Gasto de Obra Pública,3798362264
+14,Jalisco,2021,8,Gasto de Obra Pública,2728603276
+15,Estado de México,2013,8,Gasto de Obra Pública,11509783309
+15,Estado de México,2014,8,Gasto de Obra Pública,13225884969
+15,Estado de México,2015,8,Gasto de Obra Pública,37589959272
+15,Estado de México,2016,8,Gasto de Obra Pública,34161126706
+15,Estado de México,2017,8,Gasto de Obra Pública,29051097963
+15,Estado de México,2018,8,Gasto de Obra Pública,33096828586
+15,Estado de México,2019,8,Gasto de Obra Pública,35499387241
+15,Estado de México,2020,8,Gasto de Obra Pública,15799407561
+15,Estado de México,2021,8,Gasto de Obra Pública,31343391490
+16,Michoacán de Ocampo,2013,8,Gasto de Obra Pública,5537670774
+16,Michoacán de Ocampo,2014,8,Gasto de Obra Pública,5838702474
+16,Michoacán de Ocampo,2015,8,Gasto de Obra Pública,6029125479
+16,Michoacán de Ocampo,2016,8,Gasto de Obra Pública,5222429727
+16,Michoacán de Ocampo,2017,8,Gasto de Obra Pública,4400492049
+16,Michoacán de Ocampo,2018,8,Gasto de Obra Pública,4381476173
+16,Michoacán de Ocampo,2019,8,Gasto de Obra Pública,4659184360
+16,Michoacán de Ocampo,2020,8,Gasto de Obra Pública,3909488555
+16,Michoacán de Ocampo,2021,8,Gasto de Obra Pública,3701177694
+17,Morelos,2013,8,Gasto de Obra Pública,1728002353
+17,Morelos,2014,8,Gasto de Obra Pública,2086812671
+17,Morelos,2015,8,Gasto de Obra Pública,4073480337
+17,Morelos,2016,8,Gasto de Obra Pública,1259815888
+17,Morelos,2017,8,Gasto de Obra Pública,1184589997
+17,Morelos,2018,8,Gasto de Obra Pública,1330440192
+17,Morelos,2019,8,Gasto de Obra Pública,1466391084
+17,Morelos,2020,8,Gasto de Obra Pública,1750663817
+17,Morelos,2021,8,Gasto de Obra Pública,1082646076
+18,Nayarit,2013,8,Gasto de Obra Pública,2723340174
+18,Nayarit,2014,8,Gasto de Obra Pública,1885159071
+18,Nayarit,2015,8,Gasto de Obra Pública,2692213501
+18,Nayarit,2016,8,Gasto de Obra Pública,2483386914
+18,Nayarit,2017,8,Gasto de Obra Pública,1737674888
+18,Nayarit,2018,8,Gasto de Obra Pública,1463095412
+18,Nayarit,2019,8,Gasto de Obra Pública,2055547084
+18,Nayarit,2020,8,Gasto de Obra Pública,1942275159
+18,Nayarit,2021,8,Gasto de Obra Pública,2837202277
+19,Nuevo León,2013,8,Gasto de Obra Pública,7356703888
+19,Nuevo León,2014,8,Gasto de Obra Pública,7205528327
+19,Nuevo León,2015,8,Gasto de Obra Pública,10778194837
+19,Nuevo León,2016,8,Gasto de Obra Pública,6069886045
+19,Nuevo León,2017,8,Gasto de Obra Pública,3455341076
+19,Nuevo León,2018,8,Gasto de Obra Pública,3859307733
+19,Nuevo León,2019,8,Gasto de Obra Pública,3706676853
+19,Nuevo León,2020,8,Gasto de Obra Pública,4077825676
+19,Nuevo León,2021,8,Gasto de Obra Pública,4076763357
+20,Oaxaca,2013,8,Gasto de Obra Pública,10509866000
+20,Oaxaca,2014,8,Gasto de Obra Pública,12750604262
+20,Oaxaca,2015,8,Gasto de Obra Pública,11110221386
+20,Oaxaca,2016,8,Gasto de Obra Pública,10973114145
+20,Oaxaca,2017,8,Gasto de Obra Pública,9410171235
+20,Oaxaca,2018,8,Gasto de Obra Pública,11675200677
+20,Oaxaca,2019,8,Gasto de Obra Pública,13699413714
+20,Oaxaca,2020,8,Gasto de Obra Pública,17567270895
+20,Oaxaca,2021,8,Gasto de Obra Pública,16831431111
+21,Puebla,2013,8,Gasto de Obra Pública,6949571433
+21,Puebla,2014,8,Gasto de Obra Pública,7542350537
+21,Puebla,2015,8,Gasto de Obra Pública,8254402172
+21,Puebla,2016,8,Gasto de Obra Pública,7353924886
+21,Puebla,2017,8,Gasto de Obra Pública,6590507201
+21,Puebla,2018,8,Gasto de Obra Pública,6680301705
+21,Puebla,2019,8,Gasto de Obra Pública,9652816191
+21,Puebla,2020,8,Gasto de Obra Pública,8745712519
+21,Puebla,2021,8,Gasto de Obra Pública,6531111952
+22,Querétaro,2013,8,Gasto de Obra Pública,1978048418
+22,Querétaro,2014,8,Gasto de Obra Pública,2482520238
+22,Querétaro,2015,8,Gasto de Obra Pública,5538892210
+22,Querétaro,2016,8,Gasto de Obra Pública,3865521859
+22,Querétaro,2017,8,Gasto de Obra Pública,4339940513
+22,Querétaro,2018,8,Gasto de Obra Pública,2140819240
+22,Querétaro,2019,8,Gasto de Obra Pública,1824268026
+22,Querétaro,2020,8,Gasto de Obra Pública,1849215299
+22,Querétaro,2021,8,Gasto de Obra Pública,1713014580
+23,Quintana Roo,2013,8,Gasto de Obra Pública,1970335379
+23,Quintana Roo,2014,8,Gasto de Obra Pública,3797645393
+23,Quintana Roo,2015,8,Gasto de Obra Pública,2095805928
+23,Quintana Roo,2016,8,Gasto de Obra Pública,1675163980
+23,Quintana Roo,2017,8,Gasto de Obra Pública,2482784672
+23,Quintana Roo,2018,8,Gasto de Obra Pública,1577529247
+23,Quintana Roo,2019,8,Gasto de Obra Pública,1852379838
+23,Quintana Roo,2020,8,Gasto de Obra Pública,1570941966
+23,Quintana Roo,2021,8,Gasto de Obra Pública,5378670520
+24,San Luis Potosí,2013,8,Gasto de Obra Pública,3648794347
+24,San Luis Potosí,2014,8,Gasto de Obra Pública,3777247557
+24,San Luis Potosí,2015,8,Gasto de Obra Pública,3973728424
+24,San Luis Potosí,2016,8,Gasto de Obra Pública,4493537744
+24,San Luis Potosí,2017,8,Gasto de Obra Pública,3071844827
+24,San Luis Potosí,2018,8,Gasto de Obra Pública,3298817484
+24,San Luis Potosí,2019,8,Gasto de Obra Pública,3446428248
+24,San Luis Potosí,2020,8,Gasto de Obra Pública,3241758710
+24,San Luis Potosí,2021,8,Gasto de Obra Pública,3169941389
+25,Sinaloa,2013,8,Gasto de Obra Pública,3292036294
+25,Sinaloa,2014,8,Gasto de Obra Pública,5775195152
+25,Sinaloa,2015,8,Gasto de Obra Pública,6339632902
+25,Sinaloa,2016,8,Gasto de Obra Pública,6292155851
+25,Sinaloa,2017,8,Gasto de Obra Pública,2564575026
+25,Sinaloa,2018,8,Gasto de Obra Pública,2933571171
+25,Sinaloa,2019,8,Gasto de Obra Pública,2648258759
+25,Sinaloa,2020,8,Gasto de Obra Pública,4133468056
+25,Sinaloa,2021,8,Gasto de Obra Pública,4062949217
+26,Sonora,2013,8,Gasto de Obra Pública,4465273769
+26,Sonora,2014,8,Gasto de Obra Pública,5040127242
+26,Sonora,2015,8,Gasto de Obra Pública,4883180415
+26,Sonora,2016,8,Gasto de Obra Pública,4759231696
+26,Sonora,2017,8,Gasto de Obra Pública,1725263163
+26,Sonora,2018,8,Gasto de Obra Pública,2194153522
+26,Sonora,2019,8,Gasto de Obra Pública,3191538746
+26,Sonora,2020,8,Gasto de Obra Pública,2767475012
+26,Sonora,2021,8,Gasto de Obra Pública,2142694615
+27,Tabasco,2013,8,Gasto de Obra Pública,114211607560
+27,Tabasco,2014,8,Gasto de Obra Pública,135979718369
+27,Tabasco,2015,8,Gasto de Obra Pública,94865468196
+27,Tabasco,2016,8,Gasto de Obra Pública,58077701660
+27,Tabasco,2017,8,Gasto de Obra Pública,47283222346
+27,Tabasco,2018,8,Gasto de Obra Pública,57677898047
+27,Tabasco,2019,8,Gasto de Obra Pública,121696703580
+27,Tabasco,2020,8,Gasto de Obra Pública,87261180698
+27,Tabasco,2021,8,Gasto de Obra Pública,122466821887
+28,Tamaulipas,2013,8,Gasto de Obra Pública,10769649820
+28,Tamaulipas,2014,8,Gasto de Obra Pública,22981494061
+28,Tamaulipas,2015,8,Gasto de Obra Pública,10250946882
+28,Tamaulipas,2016,8,Gasto de Obra Pública,8464789460
+28,Tamaulipas,2017,8,Gasto de Obra Pública,7317142047
+28,Tamaulipas,2018,8,Gasto de Obra Pública,6699520339
+28,Tamaulipas,2019,8,Gasto de Obra Pública,6546026880
+28,Tamaulipas,2020,8,Gasto de Obra Pública,5635097724
+28,Tamaulipas,2021,8,Gasto de Obra Pública,3449539674
+29,Tlaxcala,2013,8,Gasto de Obra Pública,5731960444
+29,Tlaxcala,2014,8,Gasto de Obra Pública,1810653528
+29,Tlaxcala,2015,8,Gasto de Obra Pública,1758427414
+29,Tlaxcala,2016,8,Gasto de Obra Pública,1212329635
+29,Tlaxcala,2017,8,Gasto de Obra Pública,961567199
+29,Tlaxcala,2018,8,Gasto de Obra Pública,1015194746
+29,Tlaxcala,2019,8,Gasto de Obra Pública,1281160940
+29,Tlaxcala,2020,8,Gasto de Obra Pública,1198063012
+29,Tlaxcala,2021,8,Gasto de Obra Pública,895714758
+30,Veracruz de Ignacio de la Llave,2013,8,Gasto de Obra Pública,56306827812
+30,Veracruz de Ignacio de la Llave,2014,8,Gasto de Obra Pública,53882253454
+30,Veracruz de Ignacio de la Llave,2015,8,Gasto de Obra Pública,41415125944
+30,Veracruz de Ignacio de la Llave,2016,8,Gasto de Obra Pública,39937067116
+30,Veracruz de Ignacio de la Llave,2017,8,Gasto de Obra Pública,28578995291
+30,Veracruz de Ignacio de la Llave,2018,8,Gasto de Obra Pública,26978837544
+30,Veracruz de Ignacio de la Llave,2019,8,Gasto de Obra Pública,21968737123
+30,Veracruz de Ignacio de la Llave,2020,8,Gasto de Obra Pública,33355092755
+30,Veracruz de Ignacio de la Llave,2021,8,Gasto de Obra Pública,25947400859
+31,Yucatán,2013,8,Gasto de Obra Pública,2996967680
+31,Yucatán,2014,8,Gasto de Obra Pública,3870558296
+31,Yucatán,2015,8,Gasto de Obra Pública,3879381728
+31,Yucatán,2016,8,Gasto de Obra Pública,4462081048
+31,Yucatán,2017,8,Gasto de Obra Pública,4083206552
+31,Yucatán,2018,8,Gasto de Obra Pública,3096657566
+31,Yucatán,2019,8,Gasto de Obra Pública,3064347028
+31,Yucatán,2020,8,Gasto de Obra Pública,2308676495
+31,Yucatán,2021,8,Gasto de Obra Pública,14312142892
+32,Zacatecas,2013,8,Gasto de Obra Pública,2951903703
+32,Zacatecas,2014,8,Gasto de Obra Pública,3147958021
+32,Zacatecas,2015,8,Gasto de Obra Pública,3180366691
+32,Zacatecas,2016,8,Gasto de Obra Pública,2628053888
+32,Zacatecas,2017,8,Gasto de Obra Pública,1992505733
+32,Zacatecas,2018,8,Gasto de Obra Pública,2284882371
+32,Zacatecas,2019,8,Gasto de Obra Pública,2567673138
+32,Zacatecas,2020,8,Gasto de Obra Pública,2010497486
+32,Zacatecas,2021,8,Gasto de Obra Pública,1084559922
